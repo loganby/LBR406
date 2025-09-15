@@ -63,7 +63,6 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
