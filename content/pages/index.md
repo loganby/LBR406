@@ -39,7 +39,7 @@ sections:
             self:
               borderRadius: x-large
       - title: ''
-        subtitle: The Job Stuff
+        subtitle: ''
         text: ''
         image:
           url: /images/icon2.svg
