@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Welcome to my Book reviews
       color: text-primary
       styles:
         self:
