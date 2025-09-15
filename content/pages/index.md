@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Insert name
-        subtitle: Numbers Done
+        subtitle: ''
         text: ''
         actions: []
         elementId: null
