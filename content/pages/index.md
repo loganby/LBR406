@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'Favourite authors '
       color: text-dark
       styles:
         self:
